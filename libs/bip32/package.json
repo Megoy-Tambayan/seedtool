@@ -9,6 +9,6 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "bip32": "^1.0.4"
+    "bip32": "^3.0.0"
   }
 }
